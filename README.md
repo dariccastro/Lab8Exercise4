@@ -15,6 +15,8 @@ total = number1 + number2
 print (total,average)
  
 ```
+![Figure 1](https://eraser.imgix.net/workspaces/RfudkPaUMwrntl1ct3wt/eGfKDAABbSZzSOsopRzgBwQroF63/---figure---4O5eeRJhnEqVaheyuQK6hA.svg?ixlib=js-3.7.0 "Figure 1")
+
 
 
 
